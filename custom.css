@@ -1,0 +1,11 @@
+*
+{
+	text-align:center;
+}
+
+header h1
+{
+	position : relative;
+	color: #AAAAAA;
+	text-shadow:2px 2px #111111;
+}
